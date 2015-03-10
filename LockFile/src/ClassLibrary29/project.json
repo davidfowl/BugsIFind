@@ -1,0 +1,12 @@
+﻿{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "ClassLibrary1": ""
+    },
+    "commands": {
+        "run": "run"
+    },
+    "frameworks" : {
+        "dnx451" : { }
+    }
+}
